@@ -8,7 +8,7 @@
   <a href="mailto:bhosalesuraj074@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/surajbhosale">
+  <a href="https://www.linkedin.com/in/surajbhosale74/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=surajbhosale&style=for-the-badge&color=blue" />
