@@ -148,16 +148,9 @@ public class Suraj extends SoftwareEngineer {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=400&lines=Commits+speak+louder+than+words+💬;Consistency+is+the+real+flex+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Commits+speak+louder+than+words+💬;Consistency+is+the+real+flex+🔥;Check+out+my+repos+below+👇" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=surajbhosale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=638cff&icon_color=a78bfa&text_color=7b88a8&border_radius=12" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhosale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=638cff&text_color=7b88a8&border_radius=12" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true&background=0D1117&ring=638cff&fire=a78bfa&currStreakLabel=638cff&border_radius=12" />
+> ⭐ Stats cards will render automatically once the profile repo is live on GitHub with your username.
 
 </div>
 
