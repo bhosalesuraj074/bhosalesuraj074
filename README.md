@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=638CFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Java+Backend+Developer+%F0%9F%9A%80;Healthcare+%26+Banking+Domain+%F0%9F%8F%A5%F0%9F%8F%A6;4+Years+of+Building+Robust+APIs+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=638CFF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices+%F0%9F%9A%80;Apache+Kafka+%7C+Redis+%7C+REST+APIs+%E2%9A%A1;Angular+17+%7C+TypeScript+%7C+RxJS+%F0%9F%8C%90;Azure+DevOps+%7C+Key+Vault+%7C+Git+%E2%98%81%EF%B8%8F;Oracle+%7C+PostgreSQL+%7C+JPA+Hibernate+%F0%9F%97%84%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -92,18 +92,14 @@ public class Suraj extends SoftwareEngineer {
 
 | 🏥 Healthcare — Claims & Billing | 🏦 KeyBank — Core Banking |
 |---|---|
-| Built RESTful APIs for end-to-end **claims submission, validation & processing** | Designed & maintained the **Deposit Service** module |
-| Automated **eligibility checks** & claim adjudication rules | ⚡ Improved API performance by **30%** via Redis caching |
-| Designed billing workflows for **invoice generation & reconciliation** | 🛡️ Reduced production defects by **25%** via RCA |
-| Handled **claim rejections, resubmissions & audit trails** | Event-driven architecture with **Apache Kafka** |
+| Claims submission, validation, adjudication & audit trails | Deposit Service with real-time transaction validation |
+| Eligibility checks · Invoice generation · Reconciliation | ⚡ **+30% API speed** via Redis · 🛡️ **−25% defects** via RCA |
 | `Java` `Spring Boot` `Microservices` `Oracle` `REST APIs` | `Java` `Spring Boot` `Kafka` `Redis` `Oracle` |
 
 | 📓 Google Keep Clone | 📝 Blogging App Backend |
 |---|---|
-| Layered service architecture — API → State → Facade | Full CRUD + **search & filter** by category / tags |
-| **OnPush** change detection + BehaviorSubject state | Clean **MVC architecture** with modular REST design |
-| Standalone components & functional HTTP interceptors | PostgreSQL-backed with optimised query design |
-| `Angular 17` `Spring Boot` `RxJS` `OnPush` | `Spring Boot` `PostgreSQL` `JPA` `REST APIs` |
+| Layered architecture · OnPush · BehaviorSubject state | Full CRUD · search & filter by category / tags |
+| `Angular 17` `Spring Boot` `RxJS` `TypeScript` | `Spring Boot` `PostgreSQL` `JPA` `REST APIs` |
 
 </div>
 
@@ -120,10 +116,6 @@ public class Suraj extends SoftwareEngineer {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true&background=0D1117&ring=638cff&fire=a78bfa&currStreakLabel=638cff&border_radius=12" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajbhosale&bg_color=0D1117&color=638cff&line=a78bfa&point=34d399&area=true&hide_border=true" />
-
 </div>
 
 ---
@@ -136,8 +128,8 @@ public class Suraj extends SoftwareEngineer {
 
 ![Azure DevOps Boards](https://img.shields.io/badge/Azure_DevOps_Boards-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure DevOps Repos](https://img.shields.io/badge/Azure_DevOps_Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure DevOps Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
-![Azure DevOps Artifacts](https://img.shields.io/badge/Azure_Artifacts-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Azure Artifacts](https://img.shields.io/badge/Azure_Artifacts-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Managed Identity](https://img.shields.io/badge/Managed_Identity-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
