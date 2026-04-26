@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajbhosale)
-[![Profile Views](https://komarev.com/ghpvc/?username=surajbhosale&style=for-the-badge&color=638cff&label=PROFILE+VIEWS)](https://github.com/surajbhosale)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosalesuraj074@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajbhosale74/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhosalesuraj074)
+[![Profile Views](https://komarev.com/ghpvc/?username=surajbhosale&style=for-the-badge&color=638cff&label=PROFILE+VIEWS)](https://github.com/bhosalesuraj074)
 
 <br/>
 
@@ -29,18 +29,17 @@
 public class Suraj extends SoftwareEngineer {
 
     String   company    = "Cognizant";
-    String[] domains    = { "Healthcare 🏥", "Banking & Fintech 🏦" };
+    String[] domains    = { "Healthcare ", "Banking & Fintech " };
     String   location   = "Pune, Maharashtra 🇮🇳";
-    int      experience = 4; // years
+    String   experience = 4+ years; // years
 
-    String[] currentlyLearning = {
+    String[] CloudTechStack = {
         "Azure DevOps  →  Boards · Repos · Pipelines · Artifacts",
         "Azure Key Vault  +  Managed Identity",
         "Spring Cloud  &  cloud-native patterns"
     };
 
-    String funFact = "Traced a bug through 4 microservices, 2 Kafka topics " +
-                     "and a Redis cache. It was a missing null check. 🐛";
+    String funFact = "Why do programmers prefer dark mode? Because light attracts bugs.";
 }
 ```
 
@@ -193,8 +192,8 @@ public class Suraj extends SoftwareEngineer {
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajbhosale74/)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosalesuraj074@gmail.com)
 
 </div>
 
