@@ -1,61 +1,72 @@
-<h1 align="center">Hey there, I'm Suraj Bhosale 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Java Backend Developer · Banking Domain · Pune, India 🇮🇳</em>
-</p>
+# Hey, I'm Suraj Bhosale 👋
 
-<p align="center">
-  <a href="mailto:bhosalesuraj074@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/surajbhosale74/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=surajbhosale&style=for-the-badge&color=blue" />
-</p>
+### Java Backend Developer · Banking Domain · Pune, India 🇮🇳
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajbhosale)
+[![Profile Views](https://komarev.com/ghpvc/?username=surajbhosale&style=for-the-badge&color=638cff&label=PROFILE+VIEWS)](https://github.com/surajbhosale)
+
+</div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 💼 Java Software Engineer at **Cognizant** (4+ years)
-- 🏦 Working on **Core Banking Applications** in the fintech/banking domain
-- ☁️ Levelling up on **Azure DevOps** — Boards, Repos, Pipelines & Artifacts
-- 🌱 Currently exploring **Spring Cloud**, **Azure Key Vault** & cloud-native patterns
-- 🤖 Keeping a close eye on how **AI is reshaping software engineering**
-- 📍 Based in **Pune, Maharashtra**
+```java
+public class Suraj extends SoftwareEngineer {
+
+    String  company    = "Cognizant";
+    String  domain     = "Banking & Fintech";
+    String  location   = "Pune, Maharashtra 🇮🇳";
+    int     experience = 4; // years
+
+    String[] currentlyLearning = {
+        "Azure DevOps (Boards → Repos → Pipelines → Artifacts)",
+        "Azure Key Vault + Managed Identity",
+        "Spring Cloud & cloud-native patterns"
+    };
+
+    String funFact = "Traced a bug through 4 microservices, 2 Kafka topics " +
+                     "and a Redis cache. It was a missing null check. 🐛";
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**☕ Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Databases & Caching**
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud & DevOps**
+**🌐 Frontend**
+
+![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+**🗄️ Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**☁️ Cloud & DevOps**
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-**Tools**
+**🧰 Tools**
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -63,60 +74,105 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏦 KeyBank – Core Banking Application
-> Java · Spring Boot · Microservices · JPA-Hibernate · Redis · Oracle
+<table>
+<tr>
+<td width="50%">
 
-- Designed and maintained the **Deposit Service** module handling multi-channel deposits
-- Boosted API performance by **30%** via Redis caching & optimized SQL
-- Cut production defects by **25%** with robust exception handling and RCA
+### 🏦 KeyBank — Core Banking
+> Java · Spring Boot · Kafka · Redis · Oracle
 
----
+- Designed & maintained the **Deposit Service** module
+- ⚡ Improved API performance by **30%** via Redis caching
+- 🛡️ Reduced production defects by **25%** with stronger exception handling & RCA
 
-### 📝 Blogging Application Backend
-> Spring Boot · PostgreSQL · REST APIs · MVC
-
-- Built a scalable blogging backend with full **CRUD + search & filtering**
-- Structured around **MVC architecture** with clean RESTful API design
-
----
+</td>
+<td width="50%">
 
 ### 📓 Google Keep Clone
-> Angular 17 · Spring Boot · RxJS · OnPush Change Detection
+> Angular 17 · Spring Boot · RxJS
 
-- Full-stack clone with a layered Angular service architecture (API → State → Facade)
-- Standalone components, functional HTTP interceptors & BehaviorSubject-driven state
+- Layered service architecture — API → State → Facade
+- OnPush change detection + BehaviorSubject-driven state
+- Standalone components & functional HTTP interceptors
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Blogging App Backend
+> Spring Boot · PostgreSQL · REST APIs · MVC
+
+- Full CRUD + search & filter by category/tags/keywords
+- Clean MVC architecture with modular RESTful API design
+
+</td>
+<td width="50%">
+
+### ☁️ Azure DevOps (In Progress)
+> Boards · Repos · Pipelines · Artifacts
+
+- Structured 6-week upskilling plan
+- Focus: collaborating effectively with DevOps teams
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajbhosale&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhosale&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=surajbhosale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=638cff&icon_color=a78bfa&text_color=7b88a8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhosale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=638cff&text_color=7b88a8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true&background=0a0e1a&ring=638cff&fire=a78bfa&currStreakLabel=638cff" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Boards_·_Repos_·_Pipelines_·_Artifacts-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-Managed_Identity_·_DefaultAzureCredential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Cloud_Native_Patterns-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-- 📜 **Java, Spring Boot, SQL** — Udemy
-- 📜 **Angular** — Udemy
+![Udemy](https://img.shields.io/badge/Udemy-Java_·_Spring_Boot_·_SQL-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Angular-A435F0?style=flat-square&logo=udemy&logoColor=white)
 
 ---
 
 ## ⚡ Fun Fact
 
-> I once traced a production bug through 4 microservices, 2 Kafka topics,  
-> and a Redis cache before finding it was a missing null check. 🐛→✅
+> Traced a production bug through **4 microservices**, 2 Kafka topics, and a Redis cache.
+> Turned out to be a missing null check. 🐛 → ✅
 
 ---
 
-<p align="center">
-  <em>Always building. Always learning. Let's connect! 🤝</em>
-</p>
+## 🤝 Let's Connect
+
+<div align="center">
+
+*4 years of Java · Always building · Always learning · Open to opportunities*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=638cff&height=80&section=footer&animation=twinkling" />
+</div>
