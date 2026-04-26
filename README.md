@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hey, I'm Suraj Bhosale 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Suraj%20Bhosale&fontSize=70&color=0:638cff,50:a78bfa,100:34d399&fontColor=fff&animation=fadeIn&stroke=638cff&strokeWidth=1" />
 
-### Java Backend Developer · Banking Domain · Pune, India 🇮🇳
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=638CFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Java+Backend+Developer+%F0%9F%9A%80;Healthcare+%26+Banking+Domain+%F0%9F%8F%A5%F0%9F%8F%A6;4+Years+of+Building+Robust+APIs+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
@@ -13,20 +17,22 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:638cff,100:a78bfa&height=3&section=header" />
+
 ## 🙋‍♂️ About Me
 
 ```java
 public class Suraj extends SoftwareEngineer {
 
-    String  company    = "Cognizant";
-    String  domain     = "Banking & Fintech";
-    String  location   = "Pune, Maharashtra 🇮🇳";
-    int     experience = 4; // years
+    String   company    = "Cognizant";
+    String[] domains    = { "Healthcare 🏥", "Banking & Fintech 🏦" };
+    String   location   = "Pune, Maharashtra 🇮🇳";
+    int      experience = 4; // years
 
     String[] currentlyLearning = {
-        "Azure DevOps (Boards → Repos → Pipelines → Artifacts)",
-        "Azure Key Vault + Managed Identity",
-        "Spring Cloud & cloud-native patterns"
+        "Azure DevOps  →  Boards · Repos · Pipelines · Artifacts",
+        "Azure Key Vault  +  Managed Identity",
+        "Spring Cloud  &  cloud-native patterns"
     };
 
     String funFact = "Traced a bug through 4 microservices, 2 Kafka topics " +
@@ -34,9 +40,13 @@ public class Suraj extends SoftwareEngineer {
 }
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:638cff,100:a78bfa&height=3" />
+
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **☕ Backend**
 
@@ -72,54 +82,30 @@ public class Suraj extends SoftwareEngineer {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🏦 KeyBank — Core Banking
-> Java · Spring Boot · Kafka · Redis · Oracle
+| 🏥 Healthcare — Claims & Billing | 🏦 KeyBank — Core Banking |
+|---|---|
+| Built RESTful APIs for end-to-end **claims submission, validation & processing** | Designed & maintained the **Deposit Service** module |
+| Automated **eligibility checks** & claim adjudication rules | ⚡ Improved API performance by **30%** via Redis caching |
+| Designed billing workflows for **invoice generation & reconciliation** | 🛡️ Reduced production defects by **25%** via RCA |
+| Handled **claim rejections, resubmissions & audit trails** | Event-driven architecture with **Apache Kafka** |
+| `Java` `Spring Boot` `Microservices` `Oracle` `REST APIs` | `Java` `Spring Boot` `Kafka` `Redis` `Oracle` |
 
-- Designed & maintained the **Deposit Service** module
-- ⚡ Improved API performance by **30%** via Redis caching
-- 🛡️ Reduced production defects by **25%** with stronger exception handling & RCA
+| 📓 Google Keep Clone | 📝 Blogging App Backend |
+|---|---|
+| Layered service architecture — API → State → Facade | Full CRUD + **search & filter** by category / tags |
+| **OnPush** change detection + BehaviorSubject state | Clean **MVC architecture** with modular REST design |
+| Standalone components & functional HTTP interceptors | PostgreSQL-backed with optimised query design |
+| `Angular 17` `Spring Boot` `RxJS` `OnPush` | `Spring Boot` `PostgreSQL` `JPA` `REST APIs` |
 
-</td>
-<td width="50%">
-
-### 📓 Google Keep Clone
-> Angular 17 · Spring Boot · RxJS
-
-- Layered service architecture — API → State → Facade
-- OnPush change detection + BehaviorSubject-driven state
-- Standalone components & functional HTTP interceptors
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 Blogging App Backend
-> Spring Boot · PostgreSQL · REST APIs · MVC
-
-- Full CRUD + search & filter by category/tags/keywords
-- Clean MVC architecture with modular RESTful API design
-
-</td>
-<td width="50%">
-
-### ☁️ Azure DevOps (In Progress)
-> Boards · Repos · Pipelines · Artifacts
-
-- Structured 6-week upskilling plan
-- Focus: collaborating effectively with DevOps teams
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -127,12 +113,16 @@ public class Suraj extends SoftwareEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajbhosale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=638cff&icon_color=a78bfa&text_color=7b88a8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhosale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=638cff&text_color=7b88a8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=surajbhosale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=638cff&icon_color=a78bfa&text_color=7b88a8&border_radius=12" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhosale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=638cff&text_color=7b88a8&border_radius=12" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true&background=0a0e1a&ring=638cff&fire=a78bfa&currStreakLabel=638cff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhosale&theme=tokyonight&hide_border=true&background=0D1117&ring=638cff&fire=a78bfa&currStreakLabel=638cff&border_radius=12" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajbhosale&bg_color=0D1117&color=638cff&line=a78bfa&point=34d399&area=true&hide_border=true" />
 
 </div>
 
@@ -140,23 +130,42 @@ public class Suraj extends SoftwareEngineer {
 
 ## 🌱 Currently Learning
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Boards_·_Repos_·_Pipelines_·_Artifacts-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-Managed_Identity_·_DefaultAzureCredential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Cloud_Native_Patterns-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<div align="center">
+
+**☁️ Azure & Cloud**
+
+![Azure DevOps Boards](https://img.shields.io/badge/Azure_DevOps_Boards-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps Repos](https://img.shields.io/badge/Azure_DevOps_Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Azure DevOps Artifacts](https://img.shields.io/badge/Azure_Artifacts-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Managed Identity](https://img.shields.io/badge/Managed_Identity-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-![Udemy](https://img.shields.io/badge/Udemy-Java_·_Spring_Boot_·_SQL-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-Angular-A435F0?style=flat-square&logo=udemy&logoColor=white)
+<div align="center">
+
+![Udemy](https://img.shields.io/badge/Udemy-Java_·_Spring_Boot_·_SQL-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Angular-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+
+</div>
 
 ---
 
 ## ⚡ Fun Fact
 
-> Traced a production bug through **4 microservices**, 2 Kafka topics, and a Redis cache.
-> Turned out to be a missing null check. 🐛 → ✅
+<div align="center">
+
+> *"Traced a production bug through* ***4 microservices****, 2 Kafka topics, and a Redis cache.*
+> *Turned out to be a missing null check."* 🐛 → ✅
+
+</div>
 
 ---
 
@@ -164,7 +173,9 @@ public class Suraj extends SoftwareEngineer {
 
 <div align="center">
 
-*4 years of Java · Always building · Always learning · Open to opportunities*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Always+building.+Always+learning.;Open+to+exciting+opportunities+%F0%9F%9A%80;Let's+build+something+great+together!)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbhosale)
 [![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.surajbhosale@gmail.com)
@@ -174,5 +185,7 @@ public class Suraj extends SoftwareEngineer {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=638cff&height=80&section=footer&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:638cff,50:a78bfa,100:34d399&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+
 </div>
